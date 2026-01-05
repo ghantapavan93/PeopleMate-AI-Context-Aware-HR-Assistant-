@@ -175,8 +175,3 @@ PDF policy ingestion pipelines
 "In the age of ambient AI, assistants shouldn’t just answer questions — they should understand context, intent, and act as partners."
 PeopleMate brings that vision to life for HR, wellness, and workplace empowerment.
 
-vbnet
-Copy
-Edit
-
-Let me know if you'd like a version with images (e.g., architecture diagrams), or tailored for 
